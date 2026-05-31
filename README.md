@@ -2,7 +2,12 @@
 
 A modern SwiftUI macOS app for searching the App Store, downloading and exporting apps as IPA files, and soon sideloading IPAs to connected devices without Terminal or command-line tools.
 
-> **Status:** This project is still under development. IPA search, download, and export are working. Sideloading is currently in progress.
+<p>
+  <strong>⚠️ Status:</strong>
+  <span style="color:#d29922;">
+    This project is still under development. IPA search, download, and export are working. Sideloading is currently in progress.
+  </span>
+</p>
 
 ---
 
